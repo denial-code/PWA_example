@@ -1,4 +1,4 @@
-var CACHE_NAME = "myCache-v1";
+var CACHE_NAME = "myCache-v2";
 var urlsToCache = [
   "/",
   "/js/main.js",
