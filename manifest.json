@@ -1,0 +1,27 @@
+{
+  "name": "Grupo Yaiza",
+  "short_name": "Grupo_Yaiza",
+  "description": "PWA Example",
+  "start_url": "/index.html",
+  "background_color": "#191919",
+  "display": "fullscreen",
+  "theme_color": "#673ab7",
+  "icons": [
+    {
+      "src": "/img/logo_round_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/logo_round_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/maskable_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
